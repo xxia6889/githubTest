@@ -17,8 +17,6 @@ class TestApplicationTests {
         int ab = 1;
         int ac= 1;
         int af= 1;
-        int afa= 1;
-        int afs= 1;
 
 
     }
