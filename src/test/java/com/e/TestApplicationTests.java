@@ -12,9 +12,6 @@ class TestApplicationTests {
         System.out.println("Hello World！");
         System.out.println("你好啊");
 
-        System.out.println("1111111111112");
-
-
     }
 
 }
