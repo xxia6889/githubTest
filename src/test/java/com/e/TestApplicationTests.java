@@ -14,6 +14,12 @@ class TestApplicationTests {
 
         System.out.println("1111111111112");
         int a = 1;
+        int ab = 1;
+        int ac= 1;
+        int af= 1;
+        int afa= 1;
+        int afs= 1;
+
 
     }
 
