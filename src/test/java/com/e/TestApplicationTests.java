@@ -13,10 +13,6 @@ class TestApplicationTests {
         System.out.println("你好啊");
 
         System.out.println("1111111111112");
-        int a = 1;
-        int ab = 1;
-        int ac= 1;
-        int af= 1;
 
 
     }
