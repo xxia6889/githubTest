@@ -13,8 +13,10 @@ class TestApplicationTests {
         User user = new User();
 
         user.setName("zs");
+        user.setAge(10);
 
         System.out.println(user.getName().toString());
+        System.out.println(user.getAge().toString());
     }
 
 }
