@@ -9,15 +9,8 @@ class TestApplicationTests {
 
     @Test
     void contextLoads() {
+        System.out.println("Hello World！");
 
-        User user = new User();
-
-        user.setName("zs");
-        user.setAge(10);
-        User user1 = new User();
-
-        System.out.println(user.getName().toString());
-        System.out.println(user.getAge().toString());
     }
 
 }
