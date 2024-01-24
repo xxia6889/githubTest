@@ -14,6 +14,7 @@ class TestApplicationTests {
 
         user.setName("zs");
         user.setAge(10);
+        User user1 = new User();
 
         System.out.println(user.getName().toString());
         System.out.println(user.getAge().toString());
